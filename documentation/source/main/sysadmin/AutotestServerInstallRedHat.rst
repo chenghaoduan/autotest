@@ -10,7 +10,7 @@ please check the
 :doc:`Installing Server/Scheduler/WebUI notes <../sysadmin/AutotestServerInstallScript>`.
 
 If you want to do it all yourself, we opted by keeping the documentation
-herem and we'll do the best to update it. However, we're always working on
+here and we'll do the best to update it. However, we're always working on
 streamlining this process, so it might be possible that this can get out of
 sync.
 
